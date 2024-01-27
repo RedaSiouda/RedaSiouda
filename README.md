@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedaSiouda
 - 👀 I’m interested in Computer Science in general
-- 🌱 I’m currently a fullStack dev using react.js / node.js 
+- 🌱 I’m currently a fullStack dev using MERN stack
 - 💞️ I’m looking to collaborate on anything, the word curiosty was made for me
 - 📫 How to reach me at my email: sioudareda.dev@gmail.com
 
